@@ -1,0 +1,13 @@
+ofxGui
+ofxImGui
+ofxLineaDeTiempo
+ofxMidi
+ofxNetwork
+ofxOsc
+ofxXmlSettings
+ofxTween
+ofxRange
+ofxMSATimer
+ofxTimecode
+ofxTextInputField
+ofxTimeline
